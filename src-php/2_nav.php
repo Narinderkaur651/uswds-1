@@ -319,6 +319,9 @@
 							</div>
 						</div>
 					</li>
+	<li class="usa-nav__primary-item">
+						<a href="contact.html" class="usa-nav-link">Contact Us</a>
+					</li>
 
 					<li class="usa-nav__primary-item">
 						<button
